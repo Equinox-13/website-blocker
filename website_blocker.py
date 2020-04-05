@@ -8,7 +8,7 @@ hosts_path_linux = "/etc/hosts"
 hosts_temp = "hosts"
 
 # hosts file location for windows
-# host_path_win = r"C:\Windows\System32\drivers\etc"
+# host_path_win = r"C:\Windows\System32\drivers\etc\hosts"
 
 redirect = "127.0.0.1"
 
